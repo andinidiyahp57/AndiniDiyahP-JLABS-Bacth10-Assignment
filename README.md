@@ -176,20 +176,27 @@ Pages yang di gunakan pada testing ini yaitu antara lain:
 
 Seluruh page tersebut merupakan page yang ada pada website saucedemo.com. Berikut cara untuk mengakses pages pada tugas ini:
 ```bash
-click Tugas -> 
+click Tugas4 -> src -> main -> pages
 ```
 
 ## Tugas 5 - API Testing Automation
 Untuk mengakses tugas 5
 ```bash
-click Tugas -> Tugas5 -> src -> test -> YopMailWebTest.java as a child
-click Tugas -> Tugas5 -> src -> test -> BaseWebTest.java as a parrent
+click Tugas5 -> src -> test -> APITestSignUp.java as a child
+click Tugas5 -> src -> test -> BaseAPITestSignUp.java as a parrent
 ```
-Pada tugas kelima ini peserta diminta untuk menemukan API signup pada engineer.ai. 
+Pada tugas kelima ini peserta diminta untuk menemukan API signup pada engineer.ai dan melakukan proses signup secara otomatis menggunakan Rest Assured di java.
+Untuk mengisi data user, peserta diminta untuk menggunakan faker agar data user terisi secara otomatis.
+Setelah itu lakukan assert untuk mendapatkan request response 200.
+
+Program ini ditulis dengan alur seperti berikut:
+1. Masuk ke base url engineer.ai
 
 
-## Tugas 6 - API Testing Automation
-Untuk mengakses tugas 5
+
+
+## Tugas 6 - Upload file.jmx
+Untuk mengakses tugas 6
 ```bash
 click Tugas -> Tugas5 -> src -> test -> YopMailWebTest.java as a child
 click Tugas -> Tugas5 -> src -> test -> BaseWebTest.java as a parrent
