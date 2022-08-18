@@ -104,8 +104,8 @@ Saya menggunakan Switch Case untuk memeriksa operator +,-,/,* ke fungsi operator
 ## Tugas 3 - Website Automation Testing in yopmail.com
 Untuk mengakses tugas 3
 ```bash
-click Tugas3 -> src -> test -> YopMailWebTest.java as a child
-click Tugas3 -> src -> test -> BaseWebTest.java as a parrent
+Tugas3/src/test/java/qaautomation/Tugas3/YopMailWebTest.java as a child
+Tugas3/src/test/java/qaautomation/Tugas3/BaseWebTest.java as a parrent
 ```
 Di tugas ketiga ini peserta diminta untuk membuat automation testing pada website yopmail.com menggunakan TestNG dan Maven framework.
 
