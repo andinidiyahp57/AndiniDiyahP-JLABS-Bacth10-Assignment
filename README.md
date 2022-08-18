@@ -11,7 +11,7 @@ Untuk mengakses tugas-tugas tersebut, anda bisa buka folder Tugas.
 ## Tugas 1 - Java Basic
 Untuk mengakses tugas 1
 ```bash
-click Tugas -> tugas1,2 -> src -> com/javaprogram -> TreeMapTreeSetDemo.java
+click Tugas1,2 -> src -> com/javaprogram -> TreeMapTreeSetDemo.java
 ```
 Dalam tugas pertama ini peserta di minta untuk membuat contoh class interface yaitu TreeMap dan TreeSet dengan minimum 3 member.
 
@@ -55,7 +55,7 @@ TreeSet memiliki konsep yang sama pada TreeMap yaitu class ini akan memastikan e
 ## Tugas 2 - Java OOP
 Untuk mengakses tugas 2
 ```bash
-click Tugas -> tugas1,2 -> src -> calculator/javaprogram -> MainCalculator.java
+click Tugas1,2 -> src -> calculator/javaprogram -> MainCalculator.java
 ```
 Di tugas kedua ini peserta diminta untuk membuat aplikasi kalkulator sederhana dengan menerapkan java Oriented Project Programming (OOP).
 Pada kalkulator ini peserta juga diminta menampilkan error jika tipe data input yang diberikan tidak sesuai (String). 
@@ -110,8 +110,8 @@ Saya menggunakan Switch Case untuk memeriksa operator +,-,/,* ke fungsi operator
 ## Tugas 3 - Website Automation Testing in yopmail.com
 Untuk mengakses tugas 3
 ```bash
-click Tugas -> Tugas3 -> src -> test -> YopMailWebTest.java as a child
-click Tugas -> Tugas3 -> src -> test -> BaseWebTest.java as a parrent
+click Tugas3 -> src -> test -> YopMailWebTest.java as a child
+click Tugas3 -> src -> test -> BaseWebTest.java as a parrent
 ```
 Di tugas ketiga ini peserta diminta untuk membuat automation testing pada website yopmail.com menggunakan TestNG dan Maven framework.
 
@@ -135,8 +135,8 @@ WebDriverWait yang digunakan pada tugas ini yaitu explicitwait karena membuat we
 ## Tugas 4 - Website Automation Testing in saucedemo.com using Page Object Model (POM)
 Untuk mengakses tugas 4
 ```bash
-click Tugas -> Tugas4-> src -> test -> SaucedemoWebTest.java as a child
-click Tugas -> Tugas4 -> src -> test -> BaseWebTest.java as a parrent
+click Tugas4-> src -> test -> SaucedemoWebTest.java as a child
+click Tugas4 -> src -> test -> BaseWebTest.java as a parrent
 ```
 Di tugas keempat ini peserta diminta untuk membuat automation testing pada website saucedemo.com menggunakan TestNG dan Maven framework dengan menerapkan konsep Page Object Model (POM).
 
