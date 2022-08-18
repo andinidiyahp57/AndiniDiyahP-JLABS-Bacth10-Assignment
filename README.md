@@ -129,8 +129,8 @@ WebDriverWait yang digunakan pada tugas ini yaitu explicitwait karena membuat we
 ## Tugas 4 - Website Automation Testing in saucedemo.com using Page Object Model (POM)
 Untuk mengakses tugas 4
 ```bash
-click Tugas4-> src -> test -> SaucedemoWebTest.java as a child
-click Tugas4 -> src -> test -> BaseWebTest.java as a parrent
+Tugas4/src/test/java/qaautomation/Tugas4/SaucedemoWebTest.java as a child
+Tugas4/src/test/java/qaautomation/Tugas4/BaseWebTest.java as a parrent
 ```
 Di tugas keempat ini peserta diminta untuk membuat automation testing pada website saucedemo.com menggunakan TestNG dan Maven framework dengan menerapkan konsep Page Object Model (POM).
 
