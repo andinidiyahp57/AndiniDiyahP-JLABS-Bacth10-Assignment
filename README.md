@@ -174,11 +174,10 @@ Tugas4/src/main/java/qaautomation/Tugas4/pages/
 ```
 
 ## Tugas 5 - API Testing Automation
-
 Untuk mengakses tugas 5
 ```bash
-click Tugas5 -> src -> test -> APITestSignUp.java as a child
-click Tugas5 -> src -> test -> BaseAPITestSignUp.java as a parrent
+Tugas5/src/test/java/qaautomation/Tugas5/APITestSignUp.java as a child
+Tugas5/src/test/java/qaautomation/Tugas5/BaseAPITestSignUp.java as a parrent
 ```
 Pada tugas kelima ini peserta diminta untuk menemukan API signup pada engineer.ai dan melakukan proses signup secara otomatis menggunakan Rest Assured di java.
 Untuk mengisi data user, peserta diminta untuk menggunakan faker agar data user terisi secara otomatis.
