@@ -170,7 +170,7 @@ Pages yang di gunakan pada testing ini yaitu antara lain:
 
 Seluruh page tersebut merupakan page yang ada pada website saucedemo.com. Berikut cara untuk mengakses pages pada tugas ini:
 ```bash
-click Tugas4 -> src -> main -> pages
+Tugas4/src/main/java/qaautomation/Tugas4/pages/
 ```
 
 ## Tugas 5 - API Testing Automation
