@@ -17,7 +17,6 @@ public class BaseAPITestSignUp {
 			.setBaseUri("https://api-staging-builder.engineer.ai")
 			.setContentType(ContentType.JSON)
 			.build().log().all();
-	RequestSpecification loginJsonSpec;
 	RequestSpecification signUpJsonSpec;
 	
 	String token;
