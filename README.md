@@ -49,7 +49,7 @@ TreeSet memiliki konsep yang sama pada TreeMap yaitu class ini akan memastikan e
 ## Tugas 2 - Java OOP
 Untuk mengakses tugas 2
 ```bash
-click Tugas1,2 -> src -> calculator/javaprogram -> MainCalculator.java
+Tugas1,2/src/calculator/javaprogram/MainCalculator.java
 ```
 Di tugas kedua ini peserta diminta untuk membuat aplikasi kalkulator sederhana dengan menerapkan java Oriented Project Programming (OOP).
 Pada kalkulator ini peserta juga diminta menampilkan error jika tipe data input yang diberikan tidak sesuai (String). 
