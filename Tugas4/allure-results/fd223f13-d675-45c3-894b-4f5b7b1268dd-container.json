@@ -1,0 +1,1 @@
+{"uuid":"fd223f13-d675-45c3-894b-4f5b7b1268dd","name":"qaautomation.Tugas4.BaseWebTest.tearDown","description":"","start":1660631568536,"stop":1660631569261,"children":["64872660-c9f6-4aea-a077-443790b61642"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1660631568537,"stop":1660631569261}]}

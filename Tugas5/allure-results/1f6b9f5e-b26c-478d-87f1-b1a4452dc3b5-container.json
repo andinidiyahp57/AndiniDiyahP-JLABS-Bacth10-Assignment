@@ -1,0 +1,1 @@
+{"uuid":"1f6b9f5e-b26c-478d-87f1-b1a4452dc3b5","name":"qaautomation.Tugas4.BaseAPITestSignUp.signUp","description":"","start":1660406954890,"stop":1660406962407,"children":["3722af70-1315-4eb1-ab33-04ad0c685b76"],"befores":[{"name":"signUp","status":"passed","stage":"finished","description":"","start":1660406954892,"stop":1660406962405}]}
