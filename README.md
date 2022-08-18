@@ -1,17 +1,11 @@
 # Andini D.P.'s Assignments/JakartaLabs Batch 10
 Repositori ini merupakan kumpulan tugas-tugas yang diberikan selama mengikuti bootcamp QA Automation di JakartaLabs
 
-# Cara untuk mengakses tugas
-Untuk mengakses tugas-tugas tersebut, anda bisa buka folder Tugas.
-1. untuk tugas nomer 1 dan 2 ada pada folder tugas1,2
-2. untuk tugas nomer 3,4 dan 5 ada pada folder tugas3,4,5
-3. untuk tugas nomer 6 anda dapat membukanya pada folder tugas6
-
 # Deskripsi Tugas
 ## Tugas 1 - Java Basic
 Untuk mengakses tugas 1
 ```bash
-click Tugas1,2 -> src -> com/javaprogram -> TreeMapTreeSetDemo.java
+Tugas1,2/src/com/javaprogram/TreeMapTreeSetDemo.java 
 ```
 Dalam tugas pertama ini peserta di minta untuk membuat contoh class interface yaitu TreeMap dan TreeSet dengan minimum 3 member.
 
