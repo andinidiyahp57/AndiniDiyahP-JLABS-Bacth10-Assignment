@@ -153,7 +153,7 @@ Program ini ditulis dengan alur seperti berikut:
 11. Click continue button untuk melanjutkan proses checkout
 12. Pastikan kita berada pada overview page untuk mengkonfirmasi barang yang akan di checkout.
 13. Click Finish untuk menyelesaikan proses choeck out.
-14. pastikkan kita berada pada success page yang menginformasikan bahwa kita telah berhasil membeli produk yang dipilih.
+14. Pastikkan kita berada pada success page yang menginformasikan bahwa kita telah berhasil membeli produk yang dipilih.
 15. Click back home button untuk kembali pada profile page.
 16. Click menu button lalu click logout.
 
