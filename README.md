@@ -180,6 +180,7 @@ click Tugas4 -> src -> main -> pages
 ```
 
 ## Tugas 5 - API Testing Automation
+
 Untuk mengakses tugas 5
 ```bash
 click Tugas5 -> src -> test -> APITestSignUp.java as a child
@@ -188,21 +189,18 @@ click Tugas5 -> src -> test -> BaseAPITestSignUp.java as a parrent
 Pada tugas kelima ini peserta diminta untuk menemukan API signup pada engineer.ai dan melakukan proses signup secara otomatis menggunakan Rest Assured di java.
 Untuk mengisi data user, peserta diminta untuk menggunakan faker agar data user terisi secara otomatis.
 Hasil dari pencarian data user menggunakan faker saya masukan kedalam request body/payload.
-Setelah itu lakukan assert untuk mendapatkan request response 200.
-
-Program ini ditulis dengan alur seperti berikut:
-1. Masuk ke base url engineer.ai 
-2. Request body/payload yang sudah terisi menggunakan faker dimasukan kedalam fungsi response sign up untuk mencari response dari web server.
-3. Setelah berhasil maka token didapatkan 
-
-
+Setelah itu lakukan assert untuk mendapatkan request response status code 200.
 
 
 ## Tugas 6 - Upload file.jmx
 Untuk mengakses tugas 6
 ```bash
-click Tugas -> Tugas5 -> src -> test -> YopMailWebTest.java as a child
-click Tugas -> Tugas5 -> src -> test -> BaseWebTest.java as a parrent
+click Tugas -> Tugas5 -> src -> test -> 
 ```
-Di tugas keenam ini peserta diminta untuk mengupload hasil test load test dengan ekstensi .jmx ke repositori tugas masing-masing peserta.
+Di tugas keenam ini peserta diminta untuk mengupload hasil test load test dengan ekstensi .jmx ke repositori tugas masing-masing peserta. Pada tugas ini peserta diminta untuk membuat load testing seperti :
+ 1. Simple load test
+ 2. Data driven load test
+ 3. GraphQL load test
+ 4. Spike load test
+ 5. Database load test
 
