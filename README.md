@@ -188,7 +188,7 @@ Setelah itu lakukan assert untuk mendapatkan request response status code 200.
 ## Tugas 6 - Upload file.jmx
 Untuk mengakses tugas 6
 ```bash
-click Tugas -> Tugas5 -> src -> test -> 
+Tugas6/Test Plan Load Test.jmx
 ```
 Di tugas keenam ini peserta diminta untuk mengupload hasil test load test dengan ekstensi .jmx ke repositori tugas masing-masing peserta. Pada tugas ini peserta diminta untuk membuat load testing seperti :
  1. Simple load test
@@ -196,4 +196,3 @@ Di tugas keenam ini peserta diminta untuk mengupload hasil test load test dengan
  3. GraphQL load test
  4. Spike load test
  5. Database load test
-
