@@ -187,10 +187,13 @@ click Tugas5 -> src -> test -> BaseAPITestSignUp.java as a parrent
 ```
 Pada tugas kelima ini peserta diminta untuk menemukan API signup pada engineer.ai dan melakukan proses signup secara otomatis menggunakan Rest Assured di java.
 Untuk mengisi data user, peserta diminta untuk menggunakan faker agar data user terisi secara otomatis.
+Hasil dari pencarian data user menggunakan faker saya masukan kedalam request body/payload.
 Setelah itu lakukan assert untuk mendapatkan request response 200.
 
 Program ini ditulis dengan alur seperti berikut:
-1. Masuk ke base url engineer.ai
+1. Masuk ke base url engineer.ai 
+2. Request body/payload yang sudah terisi menggunakan faker dimasukan kedalam fungsi response sign up untuk mencari response dari web server.
+3. Setelah berhasil maka token didapatkan 
 
 
 
