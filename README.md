@@ -1,5 +1,5 @@
 # Andini D.P.'s Assignments/JakartaLabs Batch 10
-Repositori ini merupakan kumpulan tugas-tugas yang diberikan selama mengikuti bootcamp QA Automation di JakartaLabs
+Repositori ini merupakan kumpulan tugas-tugas yang diberikan selama mengikuti bootcamp QA Automation di JakartaLabs sekaligus merupakan portofolio saya dalam melakukan Automation Testing.
 
 # Deskripsi Tugas
 ## Tugas 1 - Java Basic
